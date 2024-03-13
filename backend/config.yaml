@@ -1,0 +1,6 @@
+database:
+  id: board_system
+  password: 1234
+  host: localhost
+  port: 1521
+  sid: XE
